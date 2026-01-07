@@ -2,6 +2,10 @@
 
 *This project has been created as part of the 42 curriculum by modysseu.*
 
+Version: 19.0
+
+EN | [RU](README.ru.md)
+
 ## Description
 
 This project is about coding your own C library with useful general-purpose functions for future C projects at 42 School. The goal is to create a comprehensive library (libft.a) that reimplements standard C library functions and adds additional utility functions. Through this project, you'll learn how standard library functions work by implementing them yourself, develop a deep understanding of C programming, memory management, and data structures (specifically linked lists).
